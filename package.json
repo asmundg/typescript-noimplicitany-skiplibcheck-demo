@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Åsmund Grammeltvedt <asgramme@microsoft.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.7.0-dev.20190917"
+  }
+}
